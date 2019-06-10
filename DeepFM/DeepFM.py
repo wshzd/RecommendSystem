@@ -1,3 +1,4 @@
+# 参考原文https://github.com/ChenglongChen/tensorflow-DeepFM
 """
 Tensorflow implementation of DeepFM [1]
 Reference:
