@@ -1,0 +1,7 @@
+TransFM
+https://github.com/rpasricha/TransFM
+
+TransRec 和 FM 的结合版本
+https://cseweb.ucsd.edu/~jmcauley/pdfs/recsys18a.pdf
+
+
