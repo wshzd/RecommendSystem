@@ -9,8 +9,13 @@ https://cseweb.ucsd.edu/~jmcauley/pdfs/recsys18a.pdf
 王喆老师知乎主页
 https://zhuanlan.zhihu.com/wangzhenotes
 
-
-
+Google开源推荐系统框架TensorFlow Recommenders
+源码：
+https://github.com/tensorflow/recommenders
+指南:
+https://www.tensorflow.org/recommenders/examples/quickstart
+API： 
+https://www.tensorflow.org/recommenders/api_docs/tfrs
 
 
 
